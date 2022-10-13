@@ -1,12 +1,10 @@
 type dateFormat = {
-	year: string;
-	month: string;
-	day: string;
+	year: number;
+	month: number;
+	day: number;
 };
 
 type dayFormat = {
-	firstDay: string;
-	lastDay: string;
-	startDay: number;
-	endDay: number;
+	firstDay: number;
+	daysInMonth: number;
 };

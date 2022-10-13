@@ -1,12 +1,12 @@
 import type { NextPage } from 'next';
 import { Container } from '@mui/material';
-import Calender from '@components/Calender';
+import Calendar from '@components/Calendar';
 
 const Home: NextPage = () => {
 	return (
-        <Container>
-            <Calender />
-        </Container>
+		<Container sx={{ mt: 4 }}>
+			<Calendar />
+		</Container>
 	);
 };
 

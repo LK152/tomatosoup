@@ -22,7 +22,7 @@ const Navbar = () => {
 									/>
 								</Box>
 								<Typography
-									color='secondary'
+									color='primary'
 									variant='h3'
 									fontWeight='500'
 								>

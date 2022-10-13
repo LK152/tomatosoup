@@ -4,10 +4,10 @@ const lightThemeOptions: ThemeOptions = {
 	palette: {
 		mode: 'light',
 		primary: {
-			main: 'rgb(240, 150, 130)',
+			main: 'rgb(200, 95, 95)',
 		},
 		secondary: {
-			main: 'rgb(200, 95, 95)',
+			main: '#FFF',
 		},
 	},
 	components: {
