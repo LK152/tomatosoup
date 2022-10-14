@@ -199,6 +199,7 @@ const Calendar = () => {
 											border: '1px solid rgb(200, 95, 95)',
 											borderRadius: '10px',
 										},
+										border: '1px solid transparent',
 									}}
 								>
 									<Button sx={{ width: '100%' }}>
